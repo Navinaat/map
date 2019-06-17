@@ -15,6 +15,7 @@ public class Maps
         System.out.println(m1.containsKey(3));
         System.out.println(m1.containsValue("nav"));
         System.out.println(m1.remove("navi"));
+        System.out.println("mERGE SUCCESSFULLY");
         System.out.println(m1.entrySet());
         System.out.println(m1.get(10));
         System.out.println(m1.keySet());
